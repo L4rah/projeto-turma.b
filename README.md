@@ -6,5 +6,5 @@ Endereço: xxxxxxxx - marília - sp
 =======
 Experiencia: 
 
-Artista 
+Junior Dev
 =======
